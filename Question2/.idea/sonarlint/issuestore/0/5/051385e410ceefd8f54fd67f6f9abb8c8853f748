@@ -1,0 +1,7 @@
+
+r
+java:S5961"PRefactor this method to reduce the number of assertions from 44 to less than 25.(ìŸÇíùÿÿÿÿ8×úÈ¤Ô0
+‹
+java:S5783O"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ØúÈ¤Ô0
+6
+java:S5785}"Use assertEquals instead.(úâ8ÙúÈ¤Ô0

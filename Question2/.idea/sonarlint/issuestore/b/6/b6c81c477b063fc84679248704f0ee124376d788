@@ -1,0 +1,9 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8üØá¢Ô0
+g	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(ÄÅ›Ãúÿÿÿÿ8Ùâ¢Ô0
+^
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(›„ƒøÿÿÿÿ8€Ùá¢Ô0
+8
+java:S1700"Rename field "address"(÷§ùÿÿÿÿ8§„à¢Ô0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—¤ĞÇüÿÿÿÿ

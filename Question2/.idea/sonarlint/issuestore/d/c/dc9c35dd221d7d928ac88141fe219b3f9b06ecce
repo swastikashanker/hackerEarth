@@ -1,0 +1,9 @@
+
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ø¸¦Ã
+Z	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(—Ã²˜8˜¨»¤Ô0
+a	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8˜¨»¤Ô0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—¤ÐÇüÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8·¨»¤Ô0

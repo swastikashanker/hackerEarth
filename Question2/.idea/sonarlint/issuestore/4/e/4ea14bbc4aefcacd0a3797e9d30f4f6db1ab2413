@@ -1,0 +1,6 @@
+
+­
+java:S3577
+"Rename class "AddressBookTest2" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(®½ÔÎ8ØÒË¤Ô0
+‹
+java:S5783-"iRefactor the body of this try/catch to not have multiple invocations throwing the same checked exception.(¡»¢üùÿÿÿÿ8ãÒË¤Ô0
